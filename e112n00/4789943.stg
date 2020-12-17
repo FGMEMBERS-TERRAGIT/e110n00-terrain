@@ -1,0 +1,4 @@
+OBJECT_BASE 4789943.btg
+OBJECT WIOP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 112.934756 0.837212 31.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 112.935838 0.838537 32.1 0.00
